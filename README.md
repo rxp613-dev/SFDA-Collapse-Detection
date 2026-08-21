@@ -61,10 +61,7 @@ python scripts/collapse_detection.py --results_dir results/ --output figures/
 │   └── data/              # 数据处理
 ├── scripts/               # 实验脚本
 ├── configs/               # 配置文件
-├── data/                  # 数据目录
-├── results/               # 实验结果
-├── figures/               # 生成的图表
-└── docs/                  # 文档
+└──  data/                  # 数据目录
 ```
 
 ## 📈 主要结果
