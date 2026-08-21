@@ -1,0 +1,7 @@
+{
+  "task": "A1.3",
+  "status": "failed",
+  "reason": "PU data unavailable (corrupted files, download failed)",
+  "timestamp": "2026-08-07 07:30:07",
+  "recommendation": "Skip A1.3-A1.7, continue with A2 or A3"
+}

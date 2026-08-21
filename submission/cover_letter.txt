@@ -1,0 +1,19 @@
+Dear Editors of Machines,
+
+We are pleased to submit our manuscript entitled "An Empirical Audit and Class-Shift-Based Collapse Detection Framework for Source-Free Domain Adaptation in Bearing Fault Diagnosis" for consideration as an Article in Machines.
+
+This paper presents, to the best of our knowledge, one of the first systematic empirical audits of source-free domain adaptation (SFDA) methods under realistic industrial noise conditions. Across approximately 960 experimental runs on the CWRU bearing dataset, we evaluate four canonical SFDA methods (SHOT, TENT, NRC, SAR) and two 2024 state-of-the-art methods (Mixed Attention Network, FFT-Trans) under Gaussian and non-Gaussian noise (Laplace, periodic impulsive). The key findings are: (1) a revised two-level learning-rate sensitivity taxonomy (LR-robust: TENT, SAR; LR-sensitive: SHOT, NRC), with parameter dimensionality causally determining sensitivity; (2) a target-label-free collapse detector based on class shift, achieving AUC of 0.809, grounded in domain adaptation theory; and (3) actionable deployment guidelines including a three-tier fallback protocol for safety-critical industrial applications.
+
+We believe this work is well-suited for Machines because it directly addresses the reliability and maintenance of rotating machinery through advanced diagnostic methods. The SFDA paradigm enables adapting pre-trained models to new operating conditions without requiring labeled data from the target domain---a critical capability for industrial deployment where labels are expensive or unavailable. Our audit reveals practical failure modes and provides practitioners with concrete guidelines for deploying SFDA in bearing fault diagnosis, fitting squarely within the journal's scope of "Machines Testing and Maintenance."
+
+This manuscript has not been published previously and is not under consideration for publication elsewhere. All authors have approved the manuscript and agree with its submission to Machines.
+
+We look forward to hearing from you.
+
+Sincerely,
+
+Xiaoping Ren (Corresponding Author)
+School of Big Data \& Automation
+Chongqing Chemical Industry Vocational College
+Chongqing 401228, China
+Email: rxp613@gmail.com
